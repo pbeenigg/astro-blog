@@ -10,11 +10,11 @@ This theme is self-documented \_ which means articles/posts in this theme can al
 
 ![coding dev illustration](/assets/dev.svg)
 
-## Tech Stack 1
+## Tech Stack
 
 This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
 
-## Features 2
+## Features
 
 Here are certain features of this site.
 
